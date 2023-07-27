@@ -1,2 +1,2 @@
 # ChatBot-project
-# ChatBot is a python project.
+# ChatBot is a Python project.
